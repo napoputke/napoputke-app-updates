@@ -1,7 +1,7 @@
 {
     "version": "2.0.2",
-    "url": "https://github.com/napoputke/napoputke-app-updates/releases/download/v2.0.2/2.0.2.zip",
-    "checksum": "73d2a7e430bce83c9bb41707387de66813876183d334d4c60ee588b9efb3ae27",
+    "url": "https://github.com/napoputke/napoputke-app-updates/releases/download/v2.1.0/2.1.0.zip",
+    "checksum": "07b6df3e7a986d2cd01f96195d3faa4b4c6acff65a4cc63caf606cf938a8cefb",
     "min_native_version": "2.0",
     "max_native_version": "2.0",
     "allow_downgrade": false,
